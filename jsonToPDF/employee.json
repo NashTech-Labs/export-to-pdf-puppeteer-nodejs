@@ -1,0 +1,10 @@
+{
+    "employeeID":"3456",
+    "name" : "Muskan",
+    "dateOfJoining" : "20-01-2020",
+    "phone" : 9862783728,
+    "workEmail" : "naxiia.abc@knoldus.com",
+    "jobTitle" : "Software Consultant",
+    "department" : "Engineering",
+    "companyName" : "Knoldus Inc. LLD"
+}
